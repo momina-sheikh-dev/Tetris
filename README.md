@@ -1,6 +1,6 @@
 # Tetris Game 🕹️
 
-## Introduction 🎉:
+## Introduction ✨:
 Welcome to Tetris Game, a classic puzzle game that brings nostalgic fun! In this version of Tetris, you'll experience the thrill of stacking falling blocks to clear lines and score points. This README provides essential information on how to play the game and outlines its features.
 
 ## Installation 🛠️:
